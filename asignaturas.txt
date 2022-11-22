@@ -1,2 +1,5 @@
 Despliegues
 Interfaces
+Cliente
+Servidor
+Empresa
